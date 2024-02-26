@@ -1,6 +1,6 @@
-- This is Ats Sytem To sort relevant resume acc to Job requirements
-- Frontend is built in React with TypeScript and Tailwind Css
-- Backend is built in NodeJs.
+- This is Ats System To sort relevant resumes according to Job requirements
+- Frontend is built in React with TypeScript and Tailwind CSS
+- Backend is built in NodeJs and Express.
 - Modules Used 
     - Frontend
         - Shadcn UI Comp Lib
