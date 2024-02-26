@@ -1,3 +1,12 @@
 - This is Ats Sytem To sort relevant resume acc to Job requirements
 - Frontend is built in React with TypeScript and Tailwind Css
 - Backend is built in NodeJs.
+- Modules Used 
+    - Frontend
+        - Shadcn UI Comp Lib
+    - Backend
+        - Express
+        - Multer : for storing pdf files.
+        - pdfJsLib : for converting pdf to plain text
+        - OpenAi : LLM gpt-3-turbo model for analyzing resumes
+        - Cors : for request auth control
