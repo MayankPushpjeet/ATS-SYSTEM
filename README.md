@@ -1,0 +1,3 @@
+- This is Ats Sytem To sort relevant resume acc to Job requirements
+- Frontend is built in React with TypeScript and Tailwind Css
+- Backend is built in NodeJs.
