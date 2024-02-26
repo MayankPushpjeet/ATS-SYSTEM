@@ -34,7 +34,6 @@ interface TimeDuration {
     short_description: string;
     technologies_used: string[];
     time_duration: TimeDuration;
-    college : College;
   }
   
   export interface ResumeInterface {

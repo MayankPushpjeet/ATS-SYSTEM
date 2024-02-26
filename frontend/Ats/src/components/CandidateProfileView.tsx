@@ -36,7 +36,7 @@ export function CandidateProfileView({resumeData,candidateProfileVisible,setCand
                     <button class = "flex w-28 h-14 items-center " onClick={()=>{
                         setView(0);
                     }}>
-                        <div class = {`flex mx-1 h-10 items-center px-2 ${view===0 ? 'bg-white rounded-md' : ''}`}>Collage</div>
+                        <div class = {`flex mx-1 h-10 items-center px-2 ${view===0 ? 'bg-white rounded-md' : ''}`}>College</div>
                     </button>
                     <button class = "flex w-28 px-2 items-center" onClick={()=>{
                         setView(1);
