@@ -7,7 +7,7 @@ export function CollageView({resumeData})
         <DetailView title="Branch:" value={resumeData.college.branch}></DetailView>
         <DetailView title="Degree:" value={resumeData.college.degree}></DetailView>
         <DetailView title="CGPA:" value={resumeData.college.cgpa}></DetailView>
-        <DetailView title="Start:" value={resumeData.college.start}></DetailView>
-        <DetailView title="End:" value={resumeData.college.end}></DetailView> 
+        <DetailView title="Start:" value={resumeData.college.time_duration.start}></DetailView>
+        <DetailView title="End:" value={resumeData.college.time_duration.end}></DetailView> 
     </div>
 }
